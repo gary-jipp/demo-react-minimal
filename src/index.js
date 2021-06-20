@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// Note that Webpack won't be able to detect changes to App if its inside of index.js
+// Webpack won't be able to detect changes to App if in index.js
 // Move App to its own App.js file for real development
 function App() {
 
   return (
     <div>
+      Hello World
     </div>
   );
 }
