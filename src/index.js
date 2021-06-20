@@ -1,4 +1,3 @@
-import React from 'react';
 import ReactDOM from 'react-dom';
 
 // Webpack won't be able to detect changes to App if in index.js
