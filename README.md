@@ -6,3 +6,4 @@ What is React ?
  - Library vs Framework
  - Compare to jQuery & EJS
  - Only deals with the "View" in MVC
+ - Declarative (vs imperative)
