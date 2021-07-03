@@ -2,5 +2,7 @@
 Minimal React App
 
 What is React ?
+ - A JavaScript library for building user interfaces
  - Library vs Framework
- - compare to jQuery & EJS
+ - Compare to jQuery & EJS
+ - Only deals with the "View" in MVC
