@@ -6,7 +6,7 @@
 
 ## Anatomy of a React App
 
-## Create a React app
+## Create a React app using npx
 
 ## Components
 
