@@ -13,5 +13,6 @@ function App() {
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
-// const app = 
-// $("#root").append()
+// JQuery equivalant
+// const app = <div>Hello World</div>;
+// $("#root").append(app)
