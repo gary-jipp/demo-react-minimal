@@ -1,6 +1,7 @@
 # W07D01 - Component-Based UI w/ React
 
 ## What is React?
+ - compare to jQuery/ EJS
  - Virtual DOM
  - Components
 
